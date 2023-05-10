@@ -50,3 +50,5 @@ mysqli_stmt_execute($stmt);
 
 
 echo "</pre>";
+
+header('Location: /');
